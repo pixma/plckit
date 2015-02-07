@@ -157,6 +157,9 @@
 <pin name="P$4" x="-3.81" y="-3.81" visible="off" length="point"/>
 <pin name="P$5" x="3.81" y="-3.81" visible="off" length="point" rot="R180"/>
 <pin name="P$6" x="3.81" y="3.81" visible="off" length="point" rot="R180"/>
+<text x="-0.635" y="-4.572" size="0.4064" layer="94">1:1:2</text>
+<text x="-2.794" y="5.842" size="0.4064" layer="94">&gt;NAME</text>
+<text x="-2.794" y="5.207" size="0.4064" layer="94">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>

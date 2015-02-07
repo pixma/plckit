@@ -155,8 +155,8 @@
 <pin name="P$2" x="-3.81" y="1.27" visible="off" length="point"/>
 <pin name="P$3" x="-3.81" y="-1.27" visible="off" length="point"/>
 <pin name="P$4" x="-3.81" y="-3.81" visible="off" length="point"/>
-<pin name="P$5" x="3.81" y="-3.81" visible="off" length="point"/>
-<pin name="P$6" x="3.81" y="3.81" visible="off" length="point"/>
+<pin name="P$5" x="3.81" y="-3.81" visible="off" length="point" rot="R180"/>
+<pin name="P$6" x="3.81" y="3.81" visible="off" length="point" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
